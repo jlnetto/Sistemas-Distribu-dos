@@ -1,2 +1,2 @@
-# Sistemas-Distribu-dos
+# Sistemas Distribuídos
 Projetos de Laboratório
